@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include "func.h"
+
 int main() {
 	int arg1, arg2, rez;
 	char f;
@@ -14,6 +15,6 @@ int main() {
 	if (f == '*')
 		rez = proz(arg1, arg2);
 	printf("rez=%d", rez);
-return 0;
+	return 0;
 }
 	
