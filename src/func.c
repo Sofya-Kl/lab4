@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "func.h"
+#include"func.h"
 
 int sum(int arg1, int arg2){
 	int rez;
