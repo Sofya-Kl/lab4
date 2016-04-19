@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "func.h"
+#include"func.h"
 
 int main() {
 	int arg1, arg2, rez;
